@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hello, everyone! I'm Gustavo Rocha Dias 👋
 
-<!--
-**gustrd/gustrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an experienced software developer, manager, and founder of WeDecode (wedecode.co). In addition, I'm a career coach, helping technology professionals reach their career goals.
 
-Here are some ideas to get you started:
+I'm always on the lookout for the latest trends and developments in the technology sector, such as artificial intelligence, blockchain, and cybersecurity. Here on my GitHub, you'll find some of the interesting projects I've worked on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Main technologies and tools I used
+```
+C# | .NET | Vue.js | PostgreSQL | Docker | AWS | Agile Methodologies
+```
+
+### 📚 Education
+Electrical Engineering - Emphasis on Automation and Control - USP - Polytechnic School
+
+### 🌱 I'm currently learning
+Right now, I'm exploring new technologies and trends, such as:
+
+- RPA (Robotic Process Automation);
+- Artificial intelligence and machine learning.
+
+### 📫 How to reach me
+Feel free to send me a message on LinkedIn or here:
+
+LinkedIn: Gustavo Rocha Dias
+
+### 🤝 Let's collaborate!
+If you have any interesting projects or ideas in mind and would like to collaborate with me, don't hesitate to get in touch! I'm always interested in meeting new people and learning from different perspectives.
