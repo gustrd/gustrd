@@ -15,8 +15,10 @@ Electrical Engineering - Emphasis on Automation and Control - USP - Polytechnic 
 ### 🌱 I'm currently learning
 Right now, I'm exploring new technologies and trends, such as:
 
-- RPA (Robotic Process Automation);
-- Artificial intelligence and machine learning.
+- Artificial intelligence and machine learning;
+- Largue Language Models (LLMs);
+- Image Generative AI;
+- Audio Generative AI.
 
 ### 📫 How to reach me
 Feel free to send me a message on LinkedIn or here:
