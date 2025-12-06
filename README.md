@@ -55,8 +55,8 @@ My passion lies in bridging the gap between complex research and high-impact pro
 ### 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavorochadias&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorochadias&layout=compact&theme=radical&hide_border=true&exclude_repo=github-readme-stats" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gustrd&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustrd&layout=compact&theme=radical&hide_border=true&exclude_repo=gustrd" height="150" alt="languages graph" />
 </div>
 
 ---
